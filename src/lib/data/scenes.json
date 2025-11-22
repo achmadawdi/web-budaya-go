@@ -1,0 +1,34 @@
+[
+	{
+		"id": "bala_datu_ranga_1",
+		"title": "Bala Datu Ranga - 1",
+		"category": "Bangunan",
+		"cubemap": "/cubemap/bala_datu_ranga_1.ktx2",
+		"initialFov": 65,
+		"initialDirection": { "pitch": 0, "yaw": 0 }
+	},
+	{
+		"id": "bala_datu_ranga_2",
+		"title": "Bala Datu Ranga - 2",
+		"category": "Bangunan",
+		"cubemap": "/cubemap/bala_datu_ranga_2.ktx2",
+		"initialFov": 65,
+		"initialDirection": { "pitch": 0, "yaw": 0 }
+	},
+	{
+		"id": "bala_datu_ranga_3",
+		"title": "Bala Datu Ranga - 3",
+		"category": "Bangunan",
+		"cubemap": "/cubemap/bala_datu_ranga_3.ktx2",
+		"initialFov": 65,
+		"initialDirection": { "pitch": 0, "yaw": 0 }
+	},
+	{
+		"id": "bala_datu_ranga_4",
+		"title": "Bala Datu Ranga - 4",
+		"category": "Bangunan",
+		"cubemap": "/cubemap/bala_datu_ranga_4.ktx2",
+		"initialFov": 65,
+		"initialDirection": { "pitch": 0, "yaw": 0 }
+	}
+]
